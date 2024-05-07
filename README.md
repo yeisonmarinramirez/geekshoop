@@ -1,7 +1,7 @@
 <h1>PROYECTO CESDE</h1>
 
 - Estado del proyecto: En construcciòn.
-![Badge en Desarollo]([https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://th.bing.com/th/id/R.955a2da3c5fc4d1234929ac585657f42?rik=N%2fxGoj9Qui6AjQ&pid=ImgRaw&r=0))
+![Badge en Desarollo](https://static.vecteezy.com/system/resources/previews/002/822/240/large_2x/under-construction-building-vector.jpg)
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
