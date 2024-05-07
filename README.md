@@ -11,6 +11,7 @@
 - `INTEGRANTE UNO`: Juan Jose
 - `INTEGRANTE DOS`: Juan C
 - `INTEGRANTE TRES`: Yeison M
+- `INTEGRANTE TRES`: Andres 
 
 | [<img src="https://th.bing.com/th/id/OIP.bC4ZhYybBmDXtCPUU8SqigHaIu?rs=1&pid=ImgDetMain" width=115><br><sub>Juan J</sub>](https://github.com/camilafernanda) |  [<img src="https://th.bing.com/th/id/OIP.bC4ZhYybBmDXtCPUU8SqigHaIu?rs=1&pid=ImgDetMain" width=115><br><sub>Juan C</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://th.bing.com/th/id/OIP.bC4ZhYybBmDXtCPUU8SqigHaIu?rs=1&pid=ImgDetMain" width=115><br><sub>Yeison M</sub>](https://github.com/genesysaluralatam) | [<img src="https://th.bing.com/th/id/OIP.bC4ZhYybBmDXtCPUU8SqigHaIu?rs=1&pid=ImgDetMain" width=115><br><sub>Andres </sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) | 
 | :---: | :---: | :---: | :---: |
