@@ -5,7 +5,7 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
-## :hammer:Funcionalidades del proyecto
+## :hammer:proyecto creado para Web2
 
 - `INTEGRANTES DEL PROYECTO `
 - `INTEGRANTE UNO`: Juan Jose
